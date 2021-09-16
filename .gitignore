@@ -1,0 +1,20 @@
+# Ignore Directory
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+.vs/
+
+# Except
+Assets/*
+!Assets/Scripts
+!Assets/Essential
+
+# Ignore File
+*.csproj
+*.sln
+*.vsconfig
+*.txt
