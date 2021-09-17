@@ -18,3 +18,7 @@ Assets/*
 *.sln
 *.vsconfig
 *.txt
+*.json
+*.dll
+*.exe
+*.pdb
